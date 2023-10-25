@@ -1,0 +1,19 @@
+body {
+    background-color: #1c1c1c; /* Dark background color */
+    background-image:linear-gradient(rgb(0,0,0,0.7), rgb(0,0,0,0) ),  url("https://img.freepik.com/fotos-premium/boneca-barbie-roupa-de-menina-loira-fofa-design-de-fundo-de-papel-de-parede-rosa_575980-5486.jpg"); /* Replace with your QSMP background image */
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    color:rgb(223, 6, 252);
+    font-size:larger;
+}
+
+nav a {
+    color: white;
+    font-size: 40px;
+}
+
+h1 {
+    text-align: center;
+}
